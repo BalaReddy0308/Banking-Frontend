@@ -1,0 +1,22 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+// Global SASS tokens
+$body-bg: #f6f8fb;
+$container-max: 1200px;
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background: $body-bg;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+
+.app-container {
+  max-width: $container-max;
+  margin: 0 auto;
+  padding: 1rem;
+}
