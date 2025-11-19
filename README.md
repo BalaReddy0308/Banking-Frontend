@@ -7,7 +7,7 @@ Quick start
 1. Install dependencies
 
 ```powershell
-cd "C:/Users/Nisha/OneDrive/Desktop/Silicon Valley/banking-frontend"
+cd "C:/Users/Bala/OneDrive/Desktop/Silicon Valley/banking-frontend"
 npm install
 ```
 
